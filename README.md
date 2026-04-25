@@ -80,7 +80,7 @@ The network decides these values every frame.
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/self-driving-car-ai.git
+   git clone https://github.com/shriyaagg/self-driving-car-ai.git
    ```
 
 2. Open the project folder
